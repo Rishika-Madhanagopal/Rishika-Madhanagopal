@@ -49,5 +49,8 @@ _Jun 2019 – May 2022_
 ## 📈 Let's Connect:
 [LinkedIn](https://www.linkedin.com/in/
 rishikam) | [GitHub](https://github.com/Rishika-Madhanagopal) | [Email](mailto:rishikamadhanagopal@gmail.com) 
+### 🌐 Let's Connect:
+[LinkedIn](https://www.linkedin.com/in/rishikam) • [GitHub](https://github.com/Rishika-Madhanagopal) • [Email](mailto:your-rishikamadhanagopal@gmail.com)
+
 
 
