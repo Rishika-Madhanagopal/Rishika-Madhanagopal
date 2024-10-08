@@ -1,4 +1,10 @@
-# 👩‍💻 Rishika Madhanagopal
+# Hi there 👋, I'm Rishika Madhanagopal
+## 🎓 Bioinformatics Master's Student | Data Science Enthusiast | Computational Biology Enthusiast
+
+I’m a passionate **Bioinformatics Master's student** at Newcastle University, combining the power of **data science** and **computational biology** to explore complex biological data. I thrive at the intersection of biology, technology, and data, leveraging **machine learning** and **bioinformatics tools** to uncover insights in genomics, proteomics, and immune system research. 
+
+I enjoy turning complex data into actionable insights and am always eager to learn and contribute to innovative projects.
+
 
 ## 🎯 Profile Summary:
 Motivated **Bioinformatics Master's student** at Newcastle University with a strong foundation in data analysis, bioinformatics, and statistical modeling. Passionate about applying machine learning and bioinformatics techniques to solve real-world problems. Currently seeking opportunities to contribute to impactful projects and collaborate with dynamic teams.
