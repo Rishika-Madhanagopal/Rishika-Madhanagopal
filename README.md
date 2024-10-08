@@ -31,7 +31,7 @@ _Jun 2019 – May 2022_
 - **Density-Based Clustering in Immune Cell Cytometry Data**  
    - Applied OPTICS clustering to identify immune cell populations in rheumatoid arthritis.
    - Analyzed biomarkers to predict disease flares.
-   - [Explore the project here](https://github.com/yourusername/repository)
+   - [Explore the project here](https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis)
 
 - **Gene Editing for Diabetes Treatment**  
    - Investigated CRISPR/Cas9 and other gene-editing tools for diabetes therapies.
