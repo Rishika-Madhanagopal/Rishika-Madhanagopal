@@ -9,12 +9,12 @@ I’m a passionate **Bioinformatics Master's student** at Newcastle University, 
 **MSc Bioinformatics**  
 _Newcastle University, UK_  
 _Sep 2023 – Sep 2024_  
-- Focus: Bio-data science, statistics, advanced programming for digital biology, and data analytics.
+- Focus: Bio-data science, Statistics, Advanced Programming for Digital Biology, and Data Analytics.
 
 **BSc Biotechnology**  
 _SRM University, Chennai, India_  
 _Jun 2019 – May 2022_  
-- Focus on molecular biology, gene editing, and bioinformatics tools.
+- Focus on Molecular Biology, Genetics, and Bioinformatics tools.
   
 ---
 
