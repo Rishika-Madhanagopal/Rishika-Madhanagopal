@@ -18,12 +18,18 @@ _Jun 2019 – May 2022_
   
 ---
 
-### 🛠️ Skills:
-- **Programming**: Python, R, Bash
-- **Data Science**: Machine Learning, Data Analysis, TensorFlow, scikit-learn
-- **Visualization**: Matplotlib, Seaborn, t-SNE, UMAP
-- **Bioinformatics Tools**: BLAST, FASTA, UniProt, GATK, PyMOL, Bioconductor
-- **Databases**: SQL, Git version control
+## 🛠 Skills:
+
+- **Bioinformatics Tools & Software**: BLAST, FASTA, PyMOL, Clustal Omega, HMMER, SAM tools, GATK (Genome Analysis Toolkit), Bowtie, Bioconductor, FASTQC, EMBOSS, BioPython, Perl  
+- **Programming Languages**: Python, R, Bash, HTML  
+- **Databases**: SQL  
+- **Data Visualization**: Matplotlib, Seaborn  
+- **Data Science & Technologies**: Machine Learning, Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics, Git version control  
+- **Frameworks**: Familiarity with NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Django, User Interface (GUI)  
+- **Microsoft Office Suite**: Word, Excel, PowerPoint  
+- **Web Development**: Experience in web development (including Django and HTML)  
+- **Soft Skills**: Strong analytical and planning skills, Communication, Time management, Research, Prioritization  
+
 
 ---
 
