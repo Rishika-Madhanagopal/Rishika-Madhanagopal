@@ -20,7 +20,7 @@ _Jun 2019 – May 2022_
 
 ## 🛠 Skills:
 
-- **Bioinformatics Tools & Software**: BLAST, FASTA, PyMOL, Clustal Omega, HMMER, SAM tools, GATK (Genome Analysis Toolkit), Bowtie, Bioconductor, FASTQC, EMBOSS, BioPython, Perl  
+- **Bioinformatics Tools & Software**: BLAST, FASTA, PyMOL, Clustal Omega, HMMER, SAM tools, GATK (Genome Analysis Toolkit), Bowtie, Bioconductor, FASTQC, EMBOSS, BioPython, Perl, Nextflow  
 - **Programming Languages**: Python, R, Bash, HTML  
 - **Databases**: SQL  
 - **Data Visualization**: Matplotlib, Seaborn  
