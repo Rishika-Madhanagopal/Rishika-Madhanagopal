@@ -1,59 +1,67 @@
-# Hi there 👋 I'm Rishika Madhanagopal
-## 🎓 Bioinformatics Master's Student | Data Science Enthusiast | Computational Biology Enthusiast
+# 🧬 Rishika Madhanagopal
+### *Bridging Biological Complexity with Computational Precision*
 
-I’m a passionate **Bioinformatics Master's student** at Newcastle University, combining the power of **data science** and **computational biology** to explore complex biological data. I thrive at the intersection of biology, technology, and data, leveraging **machine learning** and **bioinformatics tools** to uncover insights in genomics, proteomics, and immune system research. I enjoy turning complex data into actionable insights and am always eager to learn and contribute to innovative projects.
-
----
-
-## 🎓 Education:
-**MSc Bioinformatics**  
-_Newcastle University, UK_  
-_Sep 2023 – Sep 2024_  
-- Focus: Bio-data science, Statistics, Advanced Programming for Digital Biology, and Data Analytics.
-
-**BSc Biotechnology**  
-_SRM University, Chennai, India_  
-_Jun 2019 – May 2022_  
-- Focus on Molecular Biology, Genetics, and Bioinformatics tools.
-  
----
-
-## 🛠 Skills:
-
-- **Bioinformatics Tools & Software**: BLAST, FASTA, PyMOL, Clustal Omega, HMMER, SAM tools, GATK (Genome Analysis Toolkit), Bowtie, Bioconductor, FASTQC, EMBOSS, BioPython, Perl, Nextflow  
-- **Programming Languages**: Python, R, Bash, HTML  
-- **Databases**: SQL  
-- **Data Visualization**: Matplotlib, Seaborn  
-- **Data Science & Technologies**: Machine Learning, Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics, Git version control  
-- **Frameworks**: Familiarity with NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Django, User Interface (GUI)  
-- **Microsoft Office Suite**: Word, Excel, PowerPoint  
-- **Web Development**: Experience in web development (including Django and HTML)  
-- **Soft Skills**: Strong analytical and planning skills, Communication, Time management, Research, Prioritization  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](YOUR_PORTFOLIO_LINK_OR_SITE)
 
 ---
 
-### 📊 Projects:
-- **Density-Based Clustering in Immune Cell Cytometry Data**  
-   - Applied OPTICS clustering to identify immune cell populations in rheumatoid arthritis.
-   - Analyzed biomarkers to predict disease flares.
-   - [Explore the project here](https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis)
+## ⚡ Executive Summary
+Bioinformatics Engineer with an MSc from **Newcastle University**, specialized in translating high-dimensional biological datasets into actionable insights. I architect scalable pipelines for genomics and proteomics, leveraging a hybrid background in **Biotechnology** and **Advanced Computing**.
 
-- **Gene Editing for Diabetes Treatment**  
-   - Investigated CRISPR/Cas9 and other gene-editing tools for diabetes therapies.
-   - Assessed potential treatments and ethical implications.
+- 🔭 **Current Focus:** Optimizing single-cell analysis and immune-profiling workflows.
+- 🛠 **Architecture:** Building reproducible pipelines using **Nextflow** and **Linux HPC** environments.
+- 🧪 **Domain Expertise:** Rheumatoid Arthritis biomarkers, CRISPR/Cas9 modeling, and Immuno-informatics.
 
 ---
 
-## 📜 Certifications:
-- **Python Programming** - Besant Technologies, India
-- **SQL** - Besant Technologies, India
-- **Medical Coding** - Zimedcode, India
+## 🛠 My Technical Ecosystem
+
+### 🧬 Bioinformatics & Pipeline Engineering
+`Nextflow` • `GATK` • `Bioconductor` • `SAMtools/BCFtools` • `Bowtie2` • `Snakemake` • `HMMER`
+
+### 💻 Data Science & Programming
+**Languages:** `Python (Expert)` • `R` • `Bash` • `SQL` • `Perl`
+**Frameworks:** `Pandas` • `Scikit-learn` • `PyTorch` • `NumPy` • `Tidyverse`
+**DevOps:** `Git` • `Docker` • `Conda` • `Linux Administration`
+
+### 📊 Visualization & Interpretation
+`Matplotlib` • `Seaborn` • `ggplot2` • `PyMOL` • `Shiny` • `Tableau`
 
 ---
 
-## 🌐 Let's Connect:
-[LinkedIn](https://www.linkedin.com/in/rishikam) • [GitHub](https://github.com/Rishika-Madhanagopal) • [Email](mailto:your-rishikamadhanagopal@gmail.com)
+## 🚀 Key Research & Development
 
+### 🦠 [Immune-Cell Cytometry Dashboard](LINK_TO_REPO)
+**The Challenge:** Identifying distinct cell populations in Rheumatoid Arthritis patients to predict disease flares.
+* **Engineering:** Built a density-based clustering engine using **OPTICS** to handle noise in high-dimensional flow cytometry data.
+* **Result:** Enabled automated identification of sub-populations that correlate with clinical flare episodes.
+* **Stack:** `Python`, `Scikit-learn`, `High-Dimensionality Reduction (UMAP/t-SNE)`
 
+### ✂️ [In-Silico CRISPR Design Framework](LINK_TO_REPO)
+**The Challenge:** Evaluating the therapeutic viability of gene editing for Diabetes.
+* **Engineering:** Developed a comparative analysis pipeline to assess off-target effects and guide RNA efficiency.
+* **Stack:** `BioPython`, `EMBOSS`, `Genomic Alignment Tools`
 
+---
+
+## 🎓 Academic Foundation
+* **MSc Bioinformatics** | Newcastle University, UK (2024)
+    * *Specialization:* Digital Biology, Advanced Statistics, Bio-Data Science.
+* **BSc Biotechnology** | SRM University, India (2022)
+    * *Focus:* Molecular Biology, Genetic Engineering.
+
+---
+
+## 📈 Activity & Impact
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishika-Madhanagopal&show_icons=true&theme=omni&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika-Madhanagopal&layout=compact&theme=omni&hide_border=true" width="45%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"In the intersection of biology and code, we find the answers to the future of health."</i>
+</p>
