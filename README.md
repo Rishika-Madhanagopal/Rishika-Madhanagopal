@@ -1,37 +1,33 @@
-# 🧬 Rishika Madhanagopal
-**Bioinformatics Engineer | Data Scientist** *Developing computational frameworks to decode biological complexity.*
-
-[LinkedIn](YOUR_LINKEDIN_URL) • [Email](mailto:your-email@example.com) • [ResearchGate/Portfolio](YOUR_LINK)
+# 🧬 RISHIKA MADHANAGOPAL
+**Bioinformatics Engineer** > I build computational systems to understand biological data. Currently bridging the gap between high-dimensional omics and clinical insights.
 
 ---
 
-### 💻 The Stack
-| | |
-|--- |--- |
-| **Languages** | `Python` • `R` • `Bash` • `SQL` • `Perl` |
-| **Pipeline/Omics** | `Nextflow` • `GATK` • `SAMtools` • `Bioconductor` |
-| **Machine Learning** | `Scikit-learn` • `PyTorch` • `TensorFlow` • `Pandas` |
-| **Environment** | `Linux HPC` • `Docker` • `Git` • `Conda` |
+### 🛠️ CORE STACK
+`Python` • `R` • `Bash` • `Nextflow` • `GATK` • `PyTorch` • `SQL` • `Linux HPC`
 
 ---
 
-### 🧪 Selected Research
-* **Immune Profiling:** Designed an **OPTICS-based clustering pipeline** to identify disease-flare biomarkers in Rheumatoid Arthritis cytometry data.
-* **Genome Editing:** Developed *in-silico* modeling for **CRISPR-Cas9 efficiency** in Type 1 Diabetes therapeutic research.
-* **Bio-Data Science:** Built end-to-end pipelines for cleansing, wrangling, and visualizing high-dimensional genomic datasets.
+### 🧬 SPECIALIZATIONS
+* **Immune-Profiling:** Engineered density-based clustering (OPTICS) for RA flare prediction.
+* **Genomic Engineering:** *In-silico* CRISPR-Cas9 therapeutic modeling and off-target analysis.
+* **Pipeline Development:** Scalable bio-data wrangling, normalization, and visualization.
 
 ---
 
-### 🎓 Qualifications
-* **MSc Bioinformatics** | Newcastle University, UK
+### 🎓 CREDENTIALS
+* **MSc Bioinformatics** | Newcastle University, UK (2024)
 * **BSc Biotechnology** | SRM University, India
 
 ---
 
-### 📊 Github Pulse
-![Rishika's Stats](https://github-readme-stats.vercel.app/api?username=Rishika-Madhanagopal&show_icons=true&theme=distinguished&hide_border=true&count_private=true)
+### ⚡ CURRENTLY 
+- 🔭 Building reproducible pipelines for genomic data.
+- 🌱 Enhancing ML models for disease biomarker discovery.
+- 📫 [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your-email@example.com)
 
 ---
-<p align="center">
-  <sub>"In theory, there is no difference between biology and computer science. In practice, there is."</sub>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika-Madhanagopal&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="300" />
 </p>
