@@ -24,7 +24,7 @@
 ### ⚡ CURRENTLY 
 - 🔭 Building reproducible pipelines for genomic data.
 - 🌱 Enhancing ML models for disease biomarker discovery.
-- 📫 [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your-email@example.com)
+- 📫 [LinkedIn](https://www.linkedin.com/in/rishikam/) | [Email](rishikamadhanagopal@outlook.com)
 
 ---
 
