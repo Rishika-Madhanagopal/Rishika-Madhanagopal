@@ -1,26 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=ffffff&text=RISHIKA&fontSize=40&height=100" />
-  <img src="https://capsule-render.vercel.app/render?type=transparent&customColorList=12,25,30&color=00D2FF,92FE9D,B537F2&text=MADHANAGOPAL&fontSize=80&height=120&fontAlignY=40&animation=fadeIn" />
-</div>
 
-# RISHIKA MADHANAGOPAL
+# <span style="color: #ffffff;">RISHIKA</span> <br/> <span style="background: linear-gradient(to right, #00d2ff, #b537f2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 50px;">MADHANAGOPAL</span>
+
 <p align="center">
   <strong>BIOINFORMATICS ENGINEER &nbsp; • &nbsp; SCIENTIFIC SOFTWARE &nbsp; • &nbsp; MULTI-OMICS SYSTEMS</strong>
 </p>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <font size="4">┌ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┐</font><br/>
-        <i>"I design robust analytical systems that extract reliable <br/> 
-        insights from complex biological data."</i><br/>
-        <font size="4">└ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┘</font>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400" height="1" />
+</p>
+
+<p align="center">
+  <font size="4">⌜ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌝</font><br/>
+  <i>"I design robust analytical systems that extract reliable <br/> 
+  insights from complex biological data."</i><br/>
+  <font size="4">⌞ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌟</font>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400" height="1" />
+</p>
+
 </div>
-<br/>
 
 <table border="0">
   <tr>
