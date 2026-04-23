@@ -42,7 +42,7 @@
       <h3>Multi-Omic Drug Sensitivity</h3>
       <p align="left"><sub>Integrated TCGA, DepMap & scRNA-seq to predict drug response in breast cancer.</sub></p>
       <ul align="left">
-        <li>IGKV1-5 and ALPL identified via SHAP</li>
+        <li>IGKV1-5 & ALPL identified via SHAP</li>
         <li>Pathway enrichment & network analysis</li>
         <li>Explainable Al for interpretable biomarkers</li>
       </ul>
