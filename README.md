@@ -1,64 +1,105 @@
-# 👩‍💻 RISHIKA MADHANAGOPAL
+# 🧬 Rishika Madhanagopal
 
+**Bioinformatics Engineer | Scientific Software | Multi-Omics | Production Pipelines**
+
+I design **robust, production-grade bioinformatics systems** that translate complex biological data into **decision-ready insights**.
+
+> Not just pipelines — engineered analytical systems built for real-world variability.
+
+---
+
+## 🚀 Flagship Work
+
+### 🧬 Precision Oncology — Multi-Omic Drug Sensitivity
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=BIOINFORMATICS%20ENGINEER&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/umap.png" width="45%"/>
+  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/shap_summary.png" width="45%"/>
 </p>
 
+**Translating multi-omics into clinically interpretable biomarkers**
+
+- Integrated **TCGA + DepMap + scRNA-seq**
+- Identified **IGKV1-5, ALPL** via SHAP (Explainable AI)
+- Validated via **pathway enrichment & network biology**
+- Engineered with **Nextflow + Docker (production-ready)**
+
+🔬 *Impact:* Bridges patient biology with therapeutic response  
+🔗 https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI
+
+---
+
+### ☁️ Cloud-Native Genomics Pipeline (AWS)
 <p align="center">
-  <b>MSc Bioinformatics, Newcastle University</b> | <b>Bridging Omics & Engineering</b>
+  <img src="https://github.com/yourusername/bioinformatics-pipeline-aws/blob/main/docs/aws_architecture_diagram.png" width="70%"/>
 </p>
 
+**End-to-end genomic workflow designed for scalability**
+
+- FASTQ → QC → Alignment → Variant Calling  
+- Built using **FastQC, BWA/Bowtie2, GATK**
+- Deployed on **EC2 + S3 + Batch + Lambda**
+- Automated + reproducible execution
+
+⚙️ *Focus:* Cloud-native bioinformatics infrastructure  
+🔗 https://github.com/yourusername/bioinformatics-pipeline-aws
+
+---
+
+### 🧠 Immune Cell Clustering — Rheumatoid Arthritis
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis/blob/main/umap.png" width="45%"/>
+  <img src="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis/blob/main/reachability_plot.png" width="45%"/>
 </p>
 
----
+**Decoding immune cell heterogeneity using density-based learning**
 
-## 💻 THE TECHNICAL STACK
-*A curated ecosystem for decoding high-dimensional biological data.*
+- OPTICS clustering on cytometry data  
+- UMAP / t-SNE for high-dimensional interpretation  
+- Identified immune subpopulations linked to RA states  
 
-| | | |
-| :--- | :--- | :--- |
-| **Pipes & Omics** | `Nextflow` • `GATK` • `SAMtools` • `Bioconductor` • `Bash` | <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-pipeline-data-science-soft-fill-juicy-fish.png" width="30"/> |
-| **Data Science** | `Python` • `R` • `PyTorch` • `Scikit-learn` • `SQL` | <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-data-science-big-data-flatart-icons-flat-flatarticons-2.png" width="30"/> |
-| **Environment** | `Linux HPC` • `Docker` • `Git` • `Conda` | <img src="https://img.icons8.com/color/48/linux.png" width="30"/> |
+🧪 *Focus:* Computational immunology + unsupervised learning  
+🔗 https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis
 
 ---
 
-## 🚀 FEATURED WORK (PORTFOLIO)
-*Selected engineered solutions in computational biology.*
+## 🧠 Engineering Mindset
 
-### 🛡️ [Immune-Cell Cytometry Engine](https://github.com/Rishika-Madhanagopal/...)
-**The Challenge:** Automating the identification of distinct immune cell populations in Rheumatoid Arthritis to predict disease flare-ups.
-**The Solution:** Developed a density-based clustering architecture using **OPTICS** to handle noise in high-dimensional cytometry datasets.
-* `Python` `Scikit-learn` `Dimensionality Reduction (UMAP/t-SNE)` `Biomarker Discovery`
+What differentiates my work:
 
-### ✂️ [CRISPR-Cas9 Therapeutic Modeling](https://github.com/Rishika-Madhanagopal/...)
-**The Challenge:** Evaluating the computational viability of gene-editing strategies for Type 1 Diabetes.
-**The Solution:** Built an *in-silico* predictive framework to assess Cas9 editing efficiency and minimize off-target risks.
-* `BioPython` `EMBOSS` `Genomic Alignment` `Statistical Modeling`
+- **Reproducibility-first** → deterministic pipelines, version control  
+- **Explainability over black-box models**  
+- **Resilience to imperfect biological data**  
+- **Bridging research → production systems**
 
 ---
 
-## 🎓 CREDENTIALS & ACADEMIC PATH
-* **MSc Bioinformatics** | Newcastle University, UK (2024)
-    * *Focus:* Digital Biology, Advanced Statistics, Bio-Data Analytics.
-* **BSc Biotechnology** | SRM University, Chennai, India (2022)
-    * *Focus:* Molecular Biology, Genetic Engineering.
+## 🛠️ Core Stack
+
+**Bioinformatics**  
+NGS, Variant Calling, scRNA-seq, Multi-omics  
+
+**Engineering**  
+Nextflow • Docker • Linux • Git • AWS  
+
+**Data & ML**  
+Python (Scikit-learn, SHAP, Scanpy)  
+R (Bioconductor, gProfiler2)  
 
 ---
 
-## 📈 THE PULSE
-*An active reflection of code contributions and language expertise.*
+## 📊 What I Care About
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishika-Madhanagopal&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika-Madhanagopal&layout=compact&theme=radical&hide_border=true&langs_count=6" width="45%" />
-</p>
+- Translational bioinformatics  
+- Scientific software engineering  
+- Scalable analytical systems  
+- Real-world biological impact  
 
 ---
 
-<p align="center">
-  <sub>"In the collision of biology and computation, we architect the future of health."</sub>
-</p>
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/your-link  
+- Email: your-email  
+
+---
+
+⭐ *Good models predict. Great systems explain, scale, and survive messy data.*
