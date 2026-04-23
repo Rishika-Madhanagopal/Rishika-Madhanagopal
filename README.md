@@ -32,12 +32,11 @@
 
 </div>
 
-
 ## 01 FEATURED WORK
 
 <table border="0" width="100%">
   <tr>
-    <td width="31%" valign="top">
+    <td width="30.6%" valign="top">
       <img src="assets/cluster.png" width="100%" />
       <h3>Multi-Omic Drug Sensitivity</h3>
       Integrated TCGA, DepMap & scRNA-seq to predict drug response in breast cancer.
@@ -48,8 +47,8 @@
       </ul>
       <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
     </td>
-    <td width="3%"></td>
-    <td width="31%" valign="top">
+    <td width="4%"></td>
+    <td width="30.6%" valign="top">
       <img src="assets/AWS_Architecture_Diagram.png" width="100%" />
       <h3>Genomics Pipeline on AWS</h3>
       End-to-end NGS workflow on AWS for scalable variant discovery and analysis.
@@ -60,8 +59,8 @@
       </ul>
       <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
     </td>
-    <td width="3%"></td>
-    <td width="31%" valign="top">
+    <td width="4%"></td>
+    <td width="30.6%" valign="top">
       <img src="assets/reachability_plot_label_3.png" width="100%" />
       <h3>Immune Cell Clustering in RA</h3>
       Density-based clustering of cytometry data to identify immune cell populations.
