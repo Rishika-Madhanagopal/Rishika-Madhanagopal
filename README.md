@@ -1,105 +1,84 @@
-# 🧬 Rishika Madhanagopal
+<h1 align="center">
+  🧬 <span style="color:#8BE9FD;">Rishika Madhanagopal</span>
+</h1>
 
-**Bioinformatics Engineer | Scientific Software | Multi-Omics | Production Pipelines**
-
-I design **robust, production-grade bioinformatics systems** that translate complex biological data into **decision-ready insights**.
-
-> Not just pipelines — engineered analytical systems built for real-world variability.
-
----
-
-## 🚀 Flagship Work
-
-### 🧬 Precision Oncology — Multi-Omic Drug Sensitivity
 <p align="center">
-  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/umap.png" width="45%"/>
-  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/shap_summary.png" width="45%"/>
+  <span style="color:#50FA7B;">Bioinformatics Engineer</span> • 
+  <span style="color:#BD93F9;">Scientific Software</span> • 
+  <span style="color:#FF79C6;">Multi-Omics Systems</span>
 </p>
 
-**Translating multi-omics into clinically interpretable biomarkers**
-
-- Integrated **TCGA + DepMap + scRNA-seq**
-- Identified **IGKV1-5, ALPL** via SHAP (Explainable AI)
-- Validated via **pathway enrichment & network biology**
-- Engineered with **Nextflow + Docker (production-ready)**
-
-🔬 *Impact:* Bridges patient biology with therapeutic response  
-🔗 https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI
-
----
-
-### ☁️ Cloud-Native Genomics Pipeline (AWS)
 <p align="center">
-  <img src="https://github.com/yourusername/bioinformatics-pipeline-aws/blob/main/docs/aws_architecture_diagram.png" width="70%"/>
+  <i style="color:#6272A4;">engineering biology through data, not assumptions</i>
 </p>
 
-**End-to-end genomic workflow designed for scalability**
+---
 
-- FASTQ → QC → Alignment → Variant Calling  
-- Built using **FastQC, BWA/Bowtie2, GATK**
-- Deployed on **EC2 + S3 + Batch + Lambda**
-- Automated + reproducible execution
+<br>
 
-⚙️ *Focus:* Cloud-native bioinformatics infrastructure  
-🔗 https://github.com/yourusername/bioinformatics-pipeline-aws
+### <span style="color:#8BE9FD;">// about</span>
+
+Most biological data is messy, incomplete, and inconsistent.  
+I design analytical systems that remain **stable, interpretable, and reproducible** despite that.
+
+Not pipelines as scripts —  
+but **systems that behave predictably under uncertainty**.
 
 ---
 
-### 🧠 Immune Cell Clustering — Rheumatoid Arthritis
+<br>
+
+### <span style="color:#8BE9FD;">// signals</span>
+
 <p align="center">
-  <img src="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis/blob/main/umap.png" width="45%"/>
-  <img src="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis/blob/main/reachability_plot.png" width="45%"/>
+  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/umap.png" width="28%" />
+  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/shap_summary.png" width="28%" />
+  <img src="https://github.com/yourusername/bioinformatics-pipeline-aws/blob/main/docs/aws_architecture_diagram.png" width="28%" />
 </p>
 
-**Decoding immune cell heterogeneity using density-based learning**
-
-- OPTICS clustering on cytometry data  
-- UMAP / t-SNE for high-dimensional interpretation  
-- Identified immune subpopulations linked to RA states  
-
-🧪 *Focus:* Computational immunology + unsupervised learning  
-🔗 https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis
+<p align="center">
+  <span style="color:#6272A4;">single-cell structure</span> • 
+  <span style="color:#6272A4;">model interpretability</span> • 
+  <span style="color:#6272A4;">scalable infrastructure</span>
+</p>
 
 ---
 
-## 🧠 Engineering Mindset
+<br>
 
-What differentiates my work:
+### <span style="color:#8BE9FD;">// approach</span>
 
-- **Reproducibility-first** → deterministic pipelines, version control  
-- **Explainability over black-box models**  
-- **Resilience to imperfect biological data**  
-- **Bridging research → production systems**
-
----
-
-## 🛠️ Core Stack
-
-**Bioinformatics**  
-NGS, Variant Calling, scRNA-seq, Multi-omics  
-
-**Engineering**  
-Nextflow • Docker • Linux • Git • AWS  
-
-**Data & ML**  
-Python (Scikit-learn, SHAP, Scanpy)  
-R (Bioconductor, gProfiler2)  
+- build for **data that fails quietly**  
+- prefer **explainability over black-box accuracy**  
+- design for **reproducibility first, optimisation second**  
+- treat workflows as **software systems, not experiments**
 
 ---
 
-## 📊 What I Care About
+<br>
 
-- Translational bioinformatics  
-- Scientific software engineering  
-- Scalable analytical systems  
-- Real-world biological impact  
+### <span style="color:#8BE9FD;">// direction</span>
 
----
-
-## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/your-link  
-- Email: your-email  
+<span style="color:#50FA7B;">precision oncology</span>  
+<span style="color:#BD93F9;">explainable machine learning</span>  
+<span style="color:#FF79C6;">cloud-native bioinformatics</span>  
 
 ---
 
-⭐ *Good models predict. Great systems explain, scale, and survive messy data.*
+<br>
+
+### <span style="color:#8BE9FD;">// connect</span>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <span style="color:#44475A;">
+    good models predict. great systems survive real data.
+  </span>
+</p>
