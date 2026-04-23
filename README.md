@@ -34,7 +34,6 @@
 
 
 ## 01 FEATURED WORK
-
 <table border="0">
   <tr>
     <td width="33%" valign="top">
@@ -72,7 +71,6 @@
     </td>
   </tr>
 </table>
----
 
 ## 02 PIPELINE AT A GLANCE
 <p align="center">
