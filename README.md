@@ -37,51 +37,53 @@
 
 <table border="0">
   <tr>
-    <td width="33%" valign="top">
+    <td width="33.3%" valign="top">
       <img src="assets/cluster.png" width="100%" />
       <br />
       <h3>Multi-Omic Drug Sensitivity</h3>
       <p align="left">
-        Integrated TCGA, DepMap & scRNA-seq to predict drug response in breast cancer.
+        <sub>Integrated TCGA, DepMap & scRNA-seq to predict drug response in breast cancer.</sub>
       </p>
       <ul align="left">
-        <li>IGKV1-5 and ALPL identified via SHAP</li>
-        <li>Pathway enrichment & network analysis</li>
-        <li>Explainable AI for biomarkers</li>
+        <li>IGKV1-5 and ALPL via SHAP</li>
+        <li>Pathway & network analysis</li>
+        <li>Explainable AI biomarkers</li>
       </ul>
+      <br />
       <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="33.3%" valign="top">
       <img src="assets/AWS_Architecture_Diagram.png" width="100%" />
       <br />
       <h3>Genomics Pipeline on AWS</h3>
       <p align="left">
-        End-to-end NGS workflow on AWS for scalable variant discovery and analysis.
+        <sub>End-to-end NGS workflow on AWS for scalable variant discovery and analysis.</sub>
       </p>
       <ul align="left">
-        <li>FastQC • BWA • GATK • Samtools</li>
-        <li>Automated with Nextflow, Docker</li>
+        <li>FastQC • BWA • GATK</li>
+        <li>Nextflow & Docker</li>
         <li>S3 • EC2 • Batch • Lambda</li>
       </ul>
+      <br />
       <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="33.3%" valign="top">
       <img src="assets/reachability_plot_label_3.png" width="100%" />
       <br />
       <h3>Immune Cell Clustering in RA</h3>
       <p align="left">
-        Density-based clustering of cytometry data to identify immune cell populations.
+        <sub>Density-based clustering of cytometry data to identify immune cell populations.</sub>
       </p>
       <ul align="left">
         <li>OPTICS clustering</li>
         <li>UMAP & t-SNE visualisation</li>
-        <li>Biomarker discovery for RA states</li>
+        <li>Biomarker discovery</li>
       </ul>
+      <br />
       <a href="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis.git">View Project →</a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 02 PIPELINE AT A GLANCE
