@@ -44,7 +44,7 @@
       <ul align="left">
         <li>IGKV1-5 & ALPL identified via SHAP</li>
         <li>Pathway & Network Analysis</li>
-        <li>Explainable Al for Biomarker Discovery</li>
+        <li>XAI for Biomarker Discovery</li>
       </ul>
       <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
     </td>
