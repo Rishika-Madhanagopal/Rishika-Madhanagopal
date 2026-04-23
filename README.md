@@ -45,11 +45,11 @@
         <sub>Integrated TCGA, DepMap & scRNA-seq to predict drug response in breast cancer.</sub>
       </p>
       <ul align="left">
-        <li>IGKV1-5 and ALPL via SHAP</li>
+        <li>IGKV1-5 & ALPL via SHAP</li>
         <li>Pathway & network analysis</li>
         <li>Explainable AI biomarkers</li>
       </ul>
-      <br />
+      <div style="height: 20px;"></div>
       <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
     </td>
     <td width="33.3%" valign="top">
@@ -64,7 +64,7 @@
         <li>Nextflow & Docker</li>
         <li>S3 • EC2 • Batch • Lambda</li>
       </ul>
-      <br />
+      <div style="height: 20px;"></div>
       <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
     </td>
     <td width="33.3%" valign="top">
@@ -79,7 +79,7 @@
         <li>UMAP & t-SNE visualisation</li>
         <li>Biomarker discovery</li>
       </ul>
-      <br />
+      <div style="height: 20px;"></div>
       <a href="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis.git">View Project →</a>
     </td>
   </tr>
