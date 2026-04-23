@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/%E2%97%8F_Always_building-0d1117?style=flat&labelColor=0d1117&color=2ea043" />
 </p>
 
-# RISHIKA MADHANAGOPAL
+# YOUR NAME
 ### <kbd>BIOINFORMATICS ENGINEER</kbd> • <kbd>SCIENTIFIC SOFTWARE</kbd> • <kbd>MULTI-OMICS SYSTEMS</kbd>
 
 > "I design robust analytical systems that extract reliable insights from complex biological data."
@@ -27,23 +27,23 @@
 ## 01 FEATURED WORK
 <table border="0">
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/project1.png" width="100%" />
+    <td width="50%">
+      <img src="assets/project1.png" width="100%" />
       <h3>Multi-Omic Drug Sensitivity</h3>
       <ul>
         <li>IGKV1-5 and ALPL identified via SHAP</li>
         <li>Explainable AI for biomarkers</li>
       </ul>
-      <a href="#">View Project →</a>
+      <a href="INSERT_LINK_HERE">View Project →</a>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/project2.png" width="100%" />
+    <td width="50%">
+      <img src="assets/project2.png" width="100%" />
       <h3>Genomics Pipeline on AWS</h3>
       <ul>
         <li>Automated with Nextflow, Docker</li>
         <li>S3 • EC2 • Batch • Lambda</li>
       </ul>
-      <a href="#">View Project →</a>
+      <a href="INSERT_LINK_HERE">View Project →</a>
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@
 
 ## 02 PIPELINE AT A GLANCE
 <p align="center">
-  <img src="https://mermaid.ink/img/pako:eNptkEELwjAMxv_Kkkun6E087CDesIsH8ZAtu8HaupS2U_Tf3Y6pM9_lvXy8vCSQEidYmPZ2H-mclmC988zY6Nogp6D23CunI_G5GNoa1BSc6YVp8DizkXzT7_fBvEIn-V_O9K9O8L-c6V8lY1fKj9_I6W9VlZ-uGgPVA_m0U8KInYmE02jYVpPqZunWpL3j9Z5T6mK5x_L6AmWpXW0?type=png" width="100%" />
+  <img src="assets/pipeline.png" width="100%" />
 </p>
 
 ---
@@ -79,20 +79,20 @@
 ## 05 LET'S CONNECT
 <table border="0" width="100%">
   <tr>
-    <td width="50%">
-      📧 rishikamadhanagopal@gmail.com <br/>
-      🔗 linkedin.com/in/rishika-madhanagopal <br/>
-      📍 Newcastle Upon Tyne, UK <br/><br/>
+    <td width="50%" valign="top">
+      📧 yourname@gmail.com <br/>
+      🔗 [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) <br/>
+      📍 Your City, Country <br/><br/>
       <code>Open to opportunities in Bioinformatics</code>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Rishika-Madhanagopal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishika-Madhanagopal&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
 </p>
 
 <p align="center"><i>Good models predict. Great systems survive real data.</i></p>
