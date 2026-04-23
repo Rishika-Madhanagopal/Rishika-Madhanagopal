@@ -34,38 +34,35 @@
 
 
 ## 01 FEATURED WORK
+
 <table border="0">
   <tr>
-    <td width="50%">
-      <img src="assets/cluster.png" width="100%"/>
+    <td width="33.33%" valign="top">
+      <img src="assets/cluster.png" width="100%" />
       <h3>Multi-Omic Drug Sensitivity</h3>
-      Integrated TCGA, DepMap & scRNA-seq to
-      predict drug response in breast cancer.
+      <p>Integrated TCGA, DepMap & scRNA-seq to predict drug response in breast cancer.</p>
       <ul>
         <li>IGKV1-5 and ALPL identified via SHAP</li>
         <li>Pathway enrichment & network analysis</li>
-        <li>Explainable Al for interpretable biomarkers</li>
+        <li>Explainable AI for biomarkers</li>
       </ul>
       <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
     </td>
-    <td width="50%">
+    <td width="33.33%" valign="top">
       <img src="assets/AWS_Architecture_Diagram.png" width="100%" />
       <h3>Genomics Pipeline on AWS</h3>
-      End-to-end NGS workflow on AWS for scalable
-      variant discovery and analysis.
+      <p>End-to-end NGS workflow on AWS for scalable variant discovery and analysis.</p>
       <ul>
-        <li>FastQC . BWA . GATK . Samtools</li>
+        <li>FastQC • BWA • GATK • Samtools</li>
         <li>Automated with Nextflow, Docker</li>
-        <li>S3 . EC2 . Batch . Lambda</li>
+        <li>S3 • EC2 • Batch • Lambda</li>
       </ul>
       <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
-    
-  </td>
-      <td width="50%">
+    </td>
+    <td width="33.33%" valign="top">
       <img src="assets/reachability_plot_label_3.png" width="100%" />
       <h3>Immune Cell Clustering in RA</h3>
-      Density-based clustering of cytometry data to
-      identify immune cell populations.
+      <p>Density-based clustering of cytometry data to identify immune cell populations.</p>
       <ul>
         <li>OPTICS clustering</li>
         <li>UMAP & t-SNE visualisation</li>
