@@ -1,160 +1,114 @@
-<h1 align="center">🧬 Rishika Madhanagopal</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Rishika%20Madhanagopal&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <p align="center">
-<i>building bioinformatics systems that work when the data doesn’t</i>
+  <img src="https://readme-typing-svg.herokuapp.com?color=8BE9FD&center=true&vCenter=true&width=600&lines=Bioinformatics+Engineer;Multi-Omics+Systems;Scientific+Software;Building+robust+analytical+pipelines"/>
 </p>
 
 ---
 
-<br>
-
-## 01 — the problem
-
-Biological data doesn’t fail loudly.  
-It fails quietly.
-
-Missing values.  
-Shifting distributions.  
-Unstable inputs across runs.
-
-Most pipelines assume ideal conditions.
-
-Real-world data doesn’t.
-
----
-
-<br>
-
-## 02 — what I do
-
-I design analytical systems that:
-
-- remain stable under incomplete inputs  
-- produce consistent outputs across runs  
-- expose *why* a prediction is made  
-- scale without becoming fragile  
-
-This is where **bioinformatics meets engineering**.
-
----
-
-<br>
-
-## 03 — what that looks like
-
 <p align="center">
-  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/umap.png" width="30%" />
-  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/shap_summary.png" width="30%" />
-  <img src="https://github.com/yourusername/bioinformatics-pipeline-aws/blob/main/docs/aws_architecture_diagram.png" width="30%" />
-</p>
-
-<p align="center">
-<i>single-cell structure • model interpretability • scalable systems</i>
+  <img src="https://img.shields.io/badge/Bioinformatics-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multi--Omics-1E293B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scientific%20Software-334155?style=for-the-badge"/>
 </p>
 
 ---
 
-<br>
+## 🧬 The Reality
 
-## 04 — a concrete example
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
+</p>
 
-**Precision Oncology — Drug Sensitivity Prediction**
-
-Instead of treating machine learning as a black box,  
-I built a system that connects:
-
-- patient-derived multi-omics (TCGA)  
-- cell-line drug response (DepMap)  
-- single-cell tumour context  
-
-The goal wasn’t just prediction.
-
-It was **interpretation**.
-
-→ SHAP revealed **IGKV1-5** and **ALPL** as key drivers  
-→ Pathway enrichment linked signals to **immune activity & apoptosis**  
-
-Not just *what works* — but *why it works*.
+<p align="center">
+Biological data is noisy, incomplete, and unstable.<br>
+Most pipelines assume it behaves.<br><br>
+<b>I build systems that don’t.</b>
+</p>
 
 ---
 
-<br>
+## ⚙️ What I Build
 
-## 05 — beyond models
+<p align="center">
+  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/umap.png" width="28%"/>
+  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/shap_summary.png" width="28%"/>
+  <img src="https://github.com/yourusername/bioinformatics-pipeline-aws/blob/main/docs/aws_architecture_diagram.png" width="28%"/>
+</p>
 
-Models are only one part of the system.
-
-The real challenge is making them **reliable**.
-
-So the workflow is built as:
-
-- **Nextflow pipelines** → deterministic execution  
-- **Docker environments** → reproducibility  
-- **structured validation + logging** → failure visibility  
-
-Because in production:
-
-> a model that works once is useless  
-> a system that always works is valuable  
+<p align="center">
+Single-cell resolution • Explainable ML • Scalable pipelines
+</p>
 
 ---
 
-<br>
+## 🔬 Featured System
 
-## 06 — earlier work
+### 🧬 Precision Oncology — Drug Sensitivity
 
-Before multi-omics systems, I explored:
+<p align="center">
+  <img src="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI/blob/main/Result/shap_summary.png" width="60%"/>
+</p>
 
-**Immune Cell Clustering — Rheumatoid Arthritis**
+<p align="center">
+From multi-omics → interpretable biomarkers
+</p>
 
-- density-based clustering (OPTICS)  
-- UMAP / t-SNE representations  
-- identifying immune subpopulations linked to disease states  
+- Integrated TCGA + DepMap + scRNA-seq  
+- Identified **IGKV1-5, ALPL** via SHAP  
+- Validated via pathway enrichment  
+- Built using **Nextflow + Docker**
 
-This is where the focus on **structure in noisy data** began.
-
----
-
-<br>
-
-## 07 — systems thinking
-
-I don’t think in terms of scripts.
-
-I think in terms of:
-
-- inputs that may break  
-- models that may drift  
-- outputs that must remain consistent  
-
-Bioinformatics pipelines are not experiments.  
-They are **software systems under biological uncertainty**.
+<p align="center">
+  <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI">
+    <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-<br>
+## ☁️ Systems at Scale
 
-## 08 — direction
+<p align="center">
+  <img src="https://github.com/yourusername/bioinformatics-pipeline-aws/blob/main/docs/aws_architecture_diagram.png" width="65%"/>
+</p>
 
-- precision oncology  
-- explainable machine learning  
-- cloud-native bioinformatics  
-- scientific software engineering  
+<p align="center">
+Cloud-native genomics workflows designed for reproducibility and scale
+</p>
 
 ---
 
-<br>
+## 🧠 How I Think
 
-## 09 — connect
+<p align="center">
+  <img src="https://img.shields.io/badge/Resilience%20over%20Perfection-020617?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Explainability%20over%20BlackBox-020617?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Systems%20over%20Scripts-020617?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌌 Direction
+
+<p align="center">
+Precision Oncology • XAI • Cloud Bioinformatics • Scientific Software
+</p>
+
+---
+
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-<i>good models predict. great systems survive real data.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 </p>
