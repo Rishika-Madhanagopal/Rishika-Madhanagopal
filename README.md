@@ -1,60 +1,98 @@
 <div align="center">
+  
+<p align="right">
+  <img src="https://img.shields.io/badge/%E2%97%8F_Always_building-0d1117?style=flat&labelColor=0d1117&color=2ea043" />
+</p>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=YOUR%20NAME&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+# RISHIKA MADHANAGOPAL
+### <kbd>BIOINFORMATICS ENGINEER</kbd> • <kbd>SCIENTIFIC SOFTWARE</kbd> • <kbd>MULTI-OMICS SYSTEMS</kbd>
 
-### 🧬 BIOINFORMATICS ENGINEER  •  SCIENTIFIC SOFTWARE  •  DATA SYSTEMS
 > "I design robust analytical systems that extract reliable insights from complex biological data."
 
-<br />
+<br/>
 
-| 🧪 BIOLOGY | 🔢 DATA | 🛠️ ENGINEERING | 🎯 IMPACT |
-| :--- | :--- | :--- | :--- |
-| Understanding systems at molecular resolution | Turning noisy data into structured information | Building reproducible, scalable pipelines | Translating insights into real-world outcomes |
+<table border="0">
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="25"/><br/><b>BIOLOGY</b><br/><sub>Molecular resolution</sub></td>
+    <td align="center"><img src="https://img.icons8.com/ios/50/79c0ff/code.png" width="25"/><br/><b>DATA</b><br/><sub>Structured info</sub></td>
+    <td align="center"><img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="25"/><br/><b>ENGINEERING</b><br/><sub>Scalable pipelines</sub></td>
+    <td align="center"><img src="https://img.icons8.com/ios/50/79c0ff/target.png" width="25"/><br/><b>IMPACT</b><br/><sub>Real-world outcomes</sub></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
 ## 01 FEATURED WORK
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://via.placeholder.com/300x200/0d1117/58a6ff?text=Project+1+Visual" width="300" /><br />
-        <b>Multi-Omic Analysis</b><br />
-        Integrated TCGA & scRNA-seq data.<br />
-        <sub>Nextflow • Python • SHAP</sub>
-      </td>
-      <td>
-        <img src="https://via.placeholder.com/300x200/0d1117/79c0ff?text=Project+2+Visual" width="300" /><br />
-        <b>Genomics Pipeline</b><br />
-        End-to-end NGS workflow on AWS.<br />
-        <sub>AWS Batch • Docker • GATK</sub>
-      </td>
-      <td>
-        <img src="https://via.placeholder.com/300x200/0d1117/bc8cff?text=Project+3+Visual" width="300" /><br />
-        <b>Immune Clustering</b><br />
-        Density-based clustering of cytometric data.<br />
-        <sub>Scikit-Learn • UMAP • R</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/project1.png" width="100%" />
+      <h3>Multi-Omic Drug Sensitivity</h3>
+      <ul>
+        <li>IGKV1-5 and ALPL identified via SHAP</li>
+        <li>Explainable AI for biomarkers</li>
+      </ul>
+      <a href="#">View Project →</a>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/project2.png" width="100%" />
+      <h3>Genomics Pipeline on AWS</h3>
+      <ul>
+        <li>Automated with Nextflow, Docker</li>
+        <li>S3 • EC2 • Batch • Lambda</li>
+      </ul>
+      <a href="#">View Project →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 02 PIPELINE AT A GLANCE
-```mermaid
-graph LR
-    A[Data Integration] --> B[Preprocessing]
-    B --> C[Modelling]
-    C --> D[Insight]
-    D --> E[Reproducibility]
-    E --> F[Actionable Output]
-    
-    style A fill:#1a1b26,stroke:#7aa2f7
-    style B fill:#1a1b26,stroke:#7aa2f7
-    style C fill:#1a1b26,stroke:#bb9af7
-    style D fill:#1a1b26,stroke:#bb9af7
-    style E fill:#1a1b26,stroke:#7dcfff
-    style F fill:#1a1b26,stroke:#f7768e
+<p align="center">
+  <img src="https://mermaid.ink/img/pako:eNptkEELwjAMxv_Kkkun6E087CDesIsH8ZAtu8HaupS2U_Tf3Y6pM9_lvXy8vCSQEidYmPZ2H-mclmC988zY6Nogp6D23CunI_G5GNoa1BSc6YVp8DizkXzT7_fBvEIn-V_O9K9O8L-c6V8lY1fKj9_I6W9VlZ-uGgPVA_m0U8KInYmE02jYVpPqZunWpL3j9Z5T6mK5x_L6AmWpXW0?type=png" width="100%" />
+</p>
+
+---
+
+## 03 TECH STACK
+| | |
+| :--- | :--- |
+| **LANGUAGES** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **ANALYSIS** | ![Scanpy](https://img.shields.io/badge/-Scanpy-blueviolet?style=flat-square) ![ScikitLearn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **DEVOPS** | ![Nextflow](https://img.shields.io/badge/-Nextflow-24B064?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+
+---
+
+## 04 PHILOSOPHY
+> [!IMPORTANT]
+> **Bioinformatics isn't just about analysing data.** It's about building systems that keep working when the data doesn't behave.
+
+* 🛡️ **Robust by Design**: Anticipate failures. Engineer reliability.
+* 🔍 **Explainable Always**: Interpretability builds trust in science.
+* 🚀 **Impact Driven**: Insights should translate to real-world value.
+
+---
+
+## 05 LET'S CONNECT
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      📧 rishikamadhanagopal@gmail.com <br/>
+      🔗 linkedin.com/in/rishika-madhanagopal <br/>
+      📍 Newcastle Upon Tyne, UK <br/><br/>
+      <code>Open to opportunities in Bioinformatics</code>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+</p>
+
+<p align="center"><i>Good models predict. Great systems survive real data.</i></p>
