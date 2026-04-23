@@ -7,7 +7,10 @@
 # RISHIKA MADHANAGOPAL
 ### <kbd>BIOINFORMATICS ENGINEER</kbd> • <kbd>SCIENTIFIC SOFTWARE</kbd> • <kbd>MULTI-OMICS SYSTEMS</kbd>
 
-> "I design robust analytical systems that extract reliable insights from complex biological data."
+<p align="center">
+  <i>"I design robust analytical systems that extract reliable <br/> 
+  insights from complex biological data."</i>
+</p>
 
 <br/>
 
