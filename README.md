@@ -38,9 +38,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="Precision-Oncology-XAI/Result
-/umap_celltype_clean.png
-" width="100%" />
+      <img src="Precision-Oncology-XAI/Result/umap_celltype_clean.png" width="100%"/>
       <h3>Multi-Omic Drug Sensitivity</h3>
       <ul>
         <li>IGKV1-5 and ALPL identified via SHAP</li>
