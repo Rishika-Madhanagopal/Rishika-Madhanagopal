@@ -73,6 +73,43 @@
 </table>
 
 ## 02 PIPELINE AT A GLANCE
+## 02 PIPELINE AT A GLANCE
+
+<p align="center">
+  <img src="assets/pipeline_icons_only.png" width="100%" />
+</p>
+
+<table border="0" width="100%">
+  <tr align="center" valign="top">
+    <td width="16.6%">
+      <font color="#40E0D0"><strong>DATA INTEGRATION</strong></font><br/>
+      <sub>TCGA • DepMap<br/>scRNA-seq • GDSC</sub>
+    </td>
+    <td width="16.6%">
+      <strong>PREPROCESSING</strong><br/>
+      <sub>QC • Normalisation<br/>Feature Engineering</sub>
+    </td>
+    <td width="16.6%">
+      <strong>MODELLING</strong><br/>
+      <sub>Random Forest<br/>SHAP Explainability</sub>
+    </td>
+    <td width="16.6%">
+      <strong>BIOLOGICAL INSIGHT</strong><br/>
+      <sub>Pathway Enrichment<br/>Network Analysis</sub>
+    </td>
+    <td width="16.6%">
+      <strong>REPRODUCIBILITY</strong><br/>
+      <sub>Nextflow • Docker<br/>Versioned • Scalable</sub>
+    </td>
+    <td width="16.6%">
+      <font color="#FF69B4"><strong>ACTIONABLE OUTPUT</strong></font><br/>
+      <sub>Biomarkers • Targets<br/>Therapeutic Insight</sub>
+    </td>
+  </tr>
+</table>
+
+
+
 <p align="center">
   <img src="assets/pipeline.png" width="100%" />
 </p>
