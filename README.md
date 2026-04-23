@@ -43,8 +43,8 @@
       <p align="left"><sub>Integrated TCGA, DepMap & scRNA-seq to predict drug response in breast cancer.</sub></p>
       <ul align="left">
         <li>IGKV1-5 & ALPL identified via SHAP</li>
-        <li>Pathway enrichment & network analysis</li>
-        <li>Explainable Al for interpretable biomarkers</li>
+        <li>Pathway & Network Analysis</li>
+        <li>Explainable Al for Biomarker Discovery</li>
       </ul>
       <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
     </td>
