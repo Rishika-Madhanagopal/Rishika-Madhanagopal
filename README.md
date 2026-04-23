@@ -59,18 +59,19 @@
         <li>S3 . EC2 . Batch . Lambda</li>
       </ul>
       <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
-    </td>
+    
+  </td>
       <td width="50%">
-      <img src="assets/AWS_Architecture_Diagram.png" width="100%" />
-      <h3>Genomics Pipeline on AWS</h3>
-      End-to-end NGS workflow on AWS for scalable
-      variant discovery and analysis.
+      <img src="assets/reachability_plot_label_3.png" width="100%" />
+      <h3>Immune Cell Clustering in RA</h3>
+      Density-based clustering of cytometry data to
+      identify immune cell populations.
       <ul>
-        <li>FastQC . BWA . GATK . Samtools</li>
-        <li>Automated with Nextflow, Docker</li>
-        <li>S3 . EC2 . Batch . Lambda</li>
+        <li>OPTICS clustering</li>
+        <li>UMAP & t-SNE visualisation</li>
+        <li>Biomarker discovery for RA states</li>
       </ul>
-      <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
+      <a href="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis.git">View Project →</a>
     </td>
   </tr>
 </table>
