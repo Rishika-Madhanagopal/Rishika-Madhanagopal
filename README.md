@@ -40,11 +40,15 @@
     <td width="50%">
       <img src="assets/cluster.png" width="100%"/>
       <h3>Multi-Omic Drug Sensitivity</h3>
+      Multi-Omic Drug Sensitivity
+Integrated TCGA, DepMap & scRNA-seq to
+predict drug response in breast cancer.
       <ul>
         <li>IGKV1-5 and ALPL identified via SHAP</li>
-        <li>Explainable AI for biomarkers</li>
+        <li>Pathway enrichment & network analysis</li>
+        <li>Explainable Al for interpretable biomarkers</li>
       </ul>
-      <a href="INSERT_LINK_HERE">View Project →</a>
+      <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
     </td>
     <td width="50%">
       <img src="assets/project2.png" width="100%" />
