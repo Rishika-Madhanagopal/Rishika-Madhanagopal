@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/%E2%97%8F_Always_building-0d1117?style=flat&labelColor=0d1117&color=2ea043" />
 </p>
 
-# YOUR NAME
+# RISHIKA MADHANAGOPAL
 ### <kbd>BIOINFORMATICS ENGINEER</kbd> • <kbd>SCIENTIFIC SOFTWARE</kbd> • <kbd>MULTI-OMICS SYSTEMS</kbd>
 
 > "I design robust analytical systems that extract reliable insights from complex biological data."
