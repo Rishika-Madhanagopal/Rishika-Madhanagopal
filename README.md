@@ -32,7 +32,6 @@
 
 </div>
 
----
 
 ## 01 FEATURED WORK
 <table border="0">
@@ -50,6 +49,18 @@
       <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
     </td>
     <td width="50%">
+      <img src="assets/AWS_Architecture_Diagram.png" width="100%" />
+      <h3>Genomics Pipeline on AWS</h3>
+      End-to-end NGS workflow on AWS for scalable
+      variant discovery and analysis.
+      <ul>
+        <li>FastQC . BWA . GATK . Samtools</li>
+        <li>Automated with Nextflow, Docker</li>
+        <li>S3 . EC2 . Batch . Lambda</li>
+      </ul>
+      <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
+    </td>
+      <td width="50%">
       <img src="assets/AWS_Architecture_Diagram.png" width="100%" />
       <h3>Genomics Pipeline on AWS</h3>
       End-to-end NGS workflow on AWS for scalable
