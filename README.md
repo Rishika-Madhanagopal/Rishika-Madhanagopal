@@ -73,7 +73,7 @@
 </table>
 
 ## 02 PIPELINE AT A GLANCE
-##<table border="0" cellpadding="0" cellspacing="0" align="center">
+<table border="0" cellpadding="0" cellspacing="0" align="center">
   <tr align="center" valign="bottom">
     <td width="120">
       <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="30"/><br/>
@@ -115,7 +115,7 @@
       <font size="2" color="#ff69b4"><b>OUTPUT</b></font>
     </td>
   </tr>
-##</table>
+</table>
 
 </div>
 
