@@ -73,45 +73,47 @@
 </table>
 
 ## 02 PIPELINE AT A GLANCE
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr align="center" valign="bottom">
-    <td width="120">
-      <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="30"/><br/>
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr align="center" valign="top">
+    <td>
+      <img src="https://img.icons8.com/ios-filled/50/79c0ff/dna-helix.png" width="30"/><br/>
       <font size="2"><b>INTEGRATION</b></font>
     </td>
-    <td width="40" valign="middle">
+    <td valign="middle" width="30">
       <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-right.png" width="12"/>
     </td>
-    <td width="120">
-      <img src="https://img.icons8.com/ios/50/79c0ff/bar-chart.png" width="30"/><br/>
+    <td>
+      <img src="https://img.icons8.com/ios-filled/50/79c0ff/bar-chart.png" width="30"/><br/>
       <font size="2"><b>PREPROCESSING</b></font>
     </td>
-    <td width="40" valign="middle">
+    <td valign="middle" width="30">
       <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-right.png" width="12"/>
     </td>
-    <td width="120">
-      <img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="30"/><br/>
+    <td>
+      <img src="https://img.icons8.com/ios-filled/50/79c0ff/brain.png" width="30"/><br/>
       <font size="2"><b>MODELLING</b></font>
     </td>
-    <td width="40" valign="middle">
+    <td valign="middle" width="30">
       <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-right.png" width="12"/>
     </td>
-    <td width="120">
-      <img src="https://img.icons8.com/ios/50/79c0ff/molecule.png" width="30"/><br/>
+    <td>
+      <img src="https://img.icons8.com/ios-filled/50/79c0ff/microscope.png" width="30"/><br/>
       <font size="2"><b>INSIGHT</b></font>
     </td>
-    <td width="40" valign="middle">
+    <td valign="middle" width="30">
       <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-right.png" width="12"/>
     </td>
-    <td width="120">
-      <img src="https://img.icons8.com/ios/50/79c0ff/cloud.png" width="30"/><br/>
+    <td>
+      <img src="https://img.icons8.com/ios-filled/50/79c0ff/cloud.png" width="30"/><br/>
       <font size="2"><b>REPRODUCIBILITY</b></font>
     </td>
-    <td width="40" valign="middle">
+    <td valign="middle" width="30">
       <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-right.png" width="12"/>
     </td>
-    <td width="120">
-      <img src="https://img.icons8.com/ios/50/ff69b4/target.png" width="30"/><br/>
+    <td>
+      <img src="https://img.icons8.com/ios-filled/50/ff69b4/target.png" width="30"/><br/>
       <font size="2" color="#ff69b4"><b>OUTPUT</b></font>
     </td>
   </tr>
