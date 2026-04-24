@@ -73,41 +73,44 @@
 </table>
 
 ## 02 PIPELINE AT A GLANCE
-## 02 PIPELINE AT A GLANCE
+
+<div align="center">
 
 <p align="center">
-  <img src="assets/pipeline_icons_only.png" width="100%" />
+  <font size="4">⌜ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌝</font><br/>
+  <i>"I design robust analytical systems that extract reliable <br/> 
+  insights from complex biological data."</i><br/>
+  <font size="4">⌞ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌟</font>
 </p>
 
+<br/>
+
 <table border="0" width="100%">
-  <tr align="center" valign="top">
-    <td width="16.6%">
-      <font color="#40E0D0"><strong>DATA INTEGRATION</strong></font><br/>
-      <sub>TCGA • DepMap<br/>scRNA-seq • GDSC</sub>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="28"/>
+      <br/><b>BIOLOGY</b><br/>
+      <sub>Understanding systems at<br/>molecular resolution</sub>
     </td>
-    <td width="16.6%">
-      <strong>PREPROCESSING</strong><br/>
-      <sub>QC • Normalisation<br/>Feature Engineering</sub>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/ios/50/79c0ff/code.png" width="28"/>
+      <br/><b>DATA</b><br/>
+      <sub>Turning noisy data into<br/>structured information</sub>
     </td>
-    <td width="16.6%">
-      <strong>MODELLING</strong><br/>
-      <sub>Random Forest<br/>SHAP Explainability</sub>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="28"/>
+      <br/><b>ENGINEERING</b><br/>
+      <sub>Building reproducible,<br/>scalable pipelines</sub>
     </td>
-    <td width="16.6%">
-      <strong>BIOLOGICAL INSIGHT</strong><br/>
-      <sub>Pathway Enrichment<br/>Network Analysis</sub>
-    </td>
-    <td width="16.6%">
-      <strong>REPRODUCIBILITY</strong><br/>
-      <sub>Nextflow • Docker<br/>Versioned • Scalable</sub>
-    </td>
-    <td width="16.6%">
-      <font color="#FF69B4"><strong>ACTIONABLE OUTPUT</strong></font><br/>
-      <sub>Biomarkers • Targets<br/>Therapeutic Insight</sub>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/ios/50/79c0ff/target.png" width="28"/>
+      <br/><b>IMPACT</b><br/>
+      <sub>Translating insights into<br/>real-world outcomes</sub>
     </td>
   </tr>
 </table>
 
+</div>
 
 
 <p align="center">
