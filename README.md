@@ -142,10 +142,10 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      📧 yourname@gmail.com <br/>
-      🔗 [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) <br/>
-      📍 Your City, Country <br/><br/>
-      <code>Open to opportunities in Bioinformatics</code>
+      📧 rishikamadhanagopal@outlook.com <br/>
+      🔗 www.linkedin.com/in/rishikam <br/>
+      📍 Newcastle Upon Tyne, UK <br/><br/>
+      <code>Open to opportunities in Bioinformatics/Data Scientist</code>
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Rishika-Madhanagopal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
