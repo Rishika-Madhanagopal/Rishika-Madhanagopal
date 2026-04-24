@@ -74,7 +74,7 @@
 
 ## 02 PIPELINE AT A GLANCE
 <p align="center">
-  <img src="assets/pipeline.png" width="100%" />
+  <img src="assets/image.png" width="100%" />
 </p>
 
 ## 03 TECH STACK
