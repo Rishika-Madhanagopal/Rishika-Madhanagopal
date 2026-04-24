@@ -73,49 +73,58 @@
 </table>
 
 ## 02 PIPELINE AT A GLANCE
-<table border="0" width="100%">
-  <tr>
-    <td align="center" width="16.6%">
-      <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="22"/><br/>
-      <font size="2"><b>DATA INTEGRATION</b></font><br/>
-      <sub>TCGA • DepMap<br/>scRNA-seq • GDSC</sub>
+<div align="center">
+
+<p align="center">
+  <font size="4">⌜ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌝</font><br/>
+  <i>"I design robust analytical systems that extract reliable <br/> 
+  insights from complex biological data."</i><br/>
+  <font size="4">⌞ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌟</font>
+</p>
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr valign="top">
+    <td align="center">
+      <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="30"/><br/>
+      <b>DATA INTEGRATION</b><br/>
+      <sub>TCGA • DepMap<br/>scRNA-seq</sub>
     </td>
-    <td align="center" width="16.6%">
-      <img src="https://img.icons8.com/ios/50/79c0ff/bar-chart.png" width="22"/><br/>
-      <font size="2"><b>PREPROCESSING</b></font><br/>
+    <td valign="middle" style="padding: 0 10px;"> <img src="https://img.icons8.com/material-rounded/24/444444/forward.png" width="15"/> </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios/50/79c0ff/bar-chart.png" width="30"/><br/>
+      <b>PREPROCESSING</b><br/>
       <sub>QC • Normalisation<br/>Feature Engineering</sub>
     </td>
-    <td align="center" width="16.6%">
-      <img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="22"/><br/>
-      <font size="2"><b>MODELLING</b></font><br/>
+    <td valign="middle" style="padding: 0 10px;"> <img src="https://img.icons8.com/material-rounded/24/444444/forward.png" width="15"/> </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="30"/><br/>
+      <b>MODELLING</b><br/>
       <sub>Random Forest<br/>SHAP Explainability</sub>
     </td>
-    <td align="center" width="16.6%">
-      <img src="https://img.icons8.com/ios/50/79c0ff/molecule.png" width="22"/><br/>
-      <font size="2"><b>BIOLOGICAL INSIGHT</b></font><br/>
+    <td valign="middle" style="padding: 0 10px;"> <img src="https://img.icons8.com/material-rounded/24/444444/forward.png" width="15"/> </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios/50/79c0ff/molecule.png" width="30"/><br/>
+      <b>BIOLOGICAL INSIGHT</b><br/>
       <sub>Pathway Enrichment<br/>Network Analysis</sub>
     </td>
-    <td align="center" width="16.6%">
-      <img src="https://img.icons8.com/ios/50/79c0ff/cloud.png" width="22"/><br/>
-      <font size="2"><b>REPRODUCIBILITY</b></font><br/>
-      <sub>Nextflow • Docker<br/>Versioned • Scalable</sub>
+    <td valign="middle" style="padding: 0 10px;"> <img src="https://img.icons8.com/material-rounded/24/444444/forward.png" width="15"/> </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios/50/79c0ff/cloud.png" width="30"/><br/>
+      <b>REPRODUCIBILITY</b><br/>
+      <sub>Nextflow • Docker<br/>Versioned</sub>
     </td>
-    <td align="center" width="16.6%">
-      <img src="https://img.icons8.com/ios/50/ff69b4/target.png" width="22"/><br/>
-      <font size="2"><b>ACTIONABLE OUTPUT</b></font><br/>
+    <td valign="middle" style="padding: 0 10px;"> <img src="https://img.icons8.com/material-rounded/24/444444/forward.png" width="15"/> </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios/50/ff69b4/target.png" width="30"/><br/>
+      <font color="#ff69b4"><b>ACTIONABLE OUTPUT</b></font><br/>
       <sub>Biomarkers • Targets<br/>Therapeutic Insight</sub>
     </td>
   </tr>
 </table>
 
 </div>
-
-
-<p align="center">
-  <img src="assets/pipeline.png" width="100%" />
-</p>
-
----
 
 ## 03 TECH STACK
 | | |
