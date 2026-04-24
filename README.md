@@ -73,29 +73,28 @@
 </table>
 
 ## 02 PIPELINE AT A GLANCE
-
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="25"/> <br> <b>DATA INTEGRATION</b> <br> <sub>TCGA • DepMap • scRNA-seq</sub>
-  <br> <img src="https://img.icons8.com/material-rounded/24/444444/vertical-line.png" width="2"/> <br>
-  <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-down.png" width="15"/>
-  <br><br>
-  <img src="https://img.icons8.com/ios/50/79c0ff/bar-chart.png" width="25"/> <br> <b>PREPROCESSING</b> <br> <sub>QC • Normalisation • Feature Engineering</sub>
-  <br> <img src="https://img.icons8.com/material-rounded/24/444444/vertical-line.png" width="2"/> <br>
-  <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-down.png" width="15"/>
-  <br><br>
-  <img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="25"/> <br> <b>MODELLING</b> <br> <sub>Random Forest • SHAP Explainability</sub>
-  <br> <img src="https://img.icons8.com/material-rounded/24/444444/vertical-line.png" width="2"/> <br>
-  <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-down.png" width="15"/>
-  <br><br>
-  <img src="https://img.icons8.com/ios/50/79c0ff/molecule.png" width="25"/> <br> <b>BIOLOGICAL INSIGHT</b> <br> <sub>Pathway Enrichment • Network Analysis</sub>
-  <br> <img src="https://img.icons8.com/material-rounded/24/444444/vertical-line.png" width="2"/> <br>
-  <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-down.png" width="15"/>
-  <br><br>
-  <img src="https://img.icons8.com/ios/50/79c0ff/cloud.png" width="25"/> <br> <b>REPRODUCIBILITY</b> <br> <sub>Nextflow • Docker • Versioned</sub>
-  <br> <img src="https://img.icons8.com/material-rounded/24/444444/vertical-line.png" width="2"/> <br>
-  <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-down.png" width="15"/>
-  <br><br>
-  <img src="https://img.icons8.com/ios/50/ff69b4/target.png" width="25"/> <br> <font color="#ff69b4"><b>ACTIONABLE OUTPUT</b></font> <br> <sub>Biomarkers • Targets • Therapeutic Insight</sub>
+  <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="25"/> <br> <b>DATA INTEGRATION</b> <br> <sub>TCGA • DepMap</sub>
+</p>
+<p align="center">
+  <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-right.png" width="15"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios/50/79c0ff/bar-chart.png" width="25"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-right.png" width="15"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="25"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-right.png" width="15"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios/50/79c0ff/molecule.png" width="25"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-right.png" width="15"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios/50/79c0ff/cloud.png" width="25"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/material-rounded/24/79c0ff/chevron-right.png" width="15"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios/50/ff69b4/target.png" width="25"/>
+</p>
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>PREPROCESSING</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>MODELLING</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>BIOLOGICAL INSIGHT</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>REPRODUCIBILITY</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#ff69b4"><b>ACTIONABLE OUTPUT</b></font>
 </p>
 
 </div>
