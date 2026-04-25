@@ -159,11 +159,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikamadhanagopal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="750" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikamadhanagopal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="550" />
   
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikamadhanagopal&theme=tokyonight&hide_border=true" width="750" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikamadhanagopal&theme=tokyonight&hide_border=true" width="550" />
 </div>
 
 <p align="center">
