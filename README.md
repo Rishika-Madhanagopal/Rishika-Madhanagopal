@@ -133,8 +133,8 @@
 > [!IMPORTANT]
 > **Bioinformatics isn't just about analysing data.** It's about building systems that keep working when the data doesn't behave.
 
-* 🛡️ **Robust by Design**: Anticipate failures. Engineer reliability.
-* 🔍 **Explainable Always**: Interpretability builds trust in science.
+🛡️ **Robust by Design**: Anticipate failures. Engineer reliability.
+🔍 **Explainable Always**: Interpretability builds trust in science.
 * 🚀 **Impact Driven**: Insights should translate to real-world value.
 
 ---
