@@ -79,7 +79,7 @@
 
 ## 03 TECH STACK
 
-<div align="right">
+<div align="left">
 
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
