@@ -145,30 +145,37 @@
 </div>
 
 ## 05 LET'S CONNECT
+
 <div align="left">
-  <p>📧 <b>Email:</b> <a href="mailto:rishikamadhanagopal@outlook.com">rishikamadhanagopal@outlook.com</a></p>
-  <p>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rishikam">linkedin.com/in/rishikam</a></p>
-  <p>📍 <b>Location:</b> Newcastle Upon Tyne, UK</p>
+  <p>📧 &nbsp; <b>Email:</b> <a href="mailto:rishikamadhanagopal@outlook.com">rishikamadhanagopal@outlook.com</a></p>
+  <p>🔗 &nbsp; <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rishikam">linkedin.com/in/rishikam</a></p>
+  <p>📍 &nbsp; <b>Location:</b> Newcastle Upon Tyne, UK</p>
 </div>
 
 <br/>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Open%20to%20opportunities-Bioinformatics%20%2F%20Data%20Scientist-rgba(255,255,255,0.1)?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Open%20to%20opportunities-Bioinformatics%20%2F%20Data%20Scientist-79c0ff?style=for-the-badge&labelColor=black" />
 </div>
 
 <br/>
+
+---
 
 ### My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikamadhanagopal&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikamadhanagopal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikamadhanagopal&layout=compact&theme=tokyonight&hide=html,css" width="300" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikamadhanagopal&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" width="350" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikamadhanagopal&theme=tokyonight&hide_border=true" width="400" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishika-Madhanagopal&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+  <i>"Good models predict. Great systems survive real data."</i>
 </p>
-
-<p align="center"><i>Good models predict. Great systems survive real data.</i></p>
