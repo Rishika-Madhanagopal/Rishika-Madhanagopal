@@ -34,39 +34,44 @@
 
 
 ## 01 FEATURED WORK
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0">
   <tr>
     <td width="33%" valign="top">
-      <div style="margin: 5px;">
-        <img src="assets/cluster.png" style="width:100%; height:160px; object-fit: cover; border-radius: 8px;" />
-        <h4 align="left">Multi-Omic Drug Sensitivity</h4>
-        <p align="left"><sub>Integrated TCGA, DepMap & scRNA-seq to predict drug response.</sub></p>
-        <p align="left">🛡️ <sub>IGKV1-5 & ALPL (SHAP)</sub><br/>🔍 <sub>Pathway/Network Analysis</sub></p>
-        <div align="left"><a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a></div>
-      </div>
+      <img src="assets/cluster.png" style="width:100%; height:180px; object-fit: cover; border-radius: 8px;" />
+      <h3>Multi-Omic Drug Sensitivity</h3>
+      <p align="left"><sub>Integrated TCGA, DepMap & scRNA-seq to predict drug response in breast cancer.</sub></p>
+      <ul align="left">
+        <li>IGKV1-5 & ALPL identified via SHAP</li>
+        <li>Pathway & Network Analysis</li>
+        <li>XAI for Biomarker Discovery</li>
+      </ul>
+      <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
     </td>
     <td width="33%" valign="top">
-      <div style="margin: 5px;">
-        <img src="assets/AWS_Architecture_Diagram.png" style="width:100%; height:160px; object-fit: cover; border-radius: 8px;" />
-        <h4 align="left">Genomics Pipeline on AWS</h4>
-        <p align="left"><sub>End-to-end NGS workflow on AWS for variant discovery.</sub></p>
-        <p align="left">🛡️ <sub>Nextflow & Docker</sub><br/>🔍 <sub>S3, EC2, Batch, Lambda</sub></p>
-        <div align="left"><a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a></div>
-      </div>
+      <img src="assets/AWS_Architecture_Diagram.png" style="width:100%; height:180px; object-fit: cover; border-radius: 8px;" />
+      <h3>Genomics Pipeline on AWS</h3>
+      <p align="left"><sub>End-to-end NGS workflow on AWS for scalable variant discovery and analysis.</sub></p>
+      <ul align="left">
+        <li>FastQC . BWA . GATK . Samtools</li>
+        <li>Automated with Nextflow, Docker</li>
+        <li>S3 . EC2 . Batch . Lambda</li>
+      </ul>
+      <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
     </td>
     <td width="33%" valign="top">
-      <div style="margin: 5px;">
-        <img src="assets/reachability_plot_label_3.png" style="width:100%; height:160px; object-fit: cover; border-radius: 8px;" />
-        <h4 align="left">Immune Cell Clustering</h4>
-        <p align="left"><sub>Density-based clustering of RA immune cell populations.</sub></p>
-        <p align="left">🛡️ <sub>OPTICS Clustering</sub><br/>🔍 <sub>UMAP & t-SNE Viz</sub></p>
-        <div align="left"><a href="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis.git">View Project →</a></div>
-      </div>
+      <img src="assets/reachability_plot_label_3.png" style="width:100%; height:180px; object-fit: cover; border-radius: 8px;" />
+      <h3>Immune Cell Clustering in RA</h3>
+      <p align="left"><sub>Density-based clustering of cytometry data to identify immune cell populations.</sub></p>
+      <ul align="left">
+        <li>OPTICS clustering</li>
+        <li>UMAP & t-SNE visualisation</li>
+        <li>Biomarker discovery for RA states</li>
+      </ul>
+      <a href="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis.git">View Project →</a>
     </td>
   </tr>
 </table>
-</div>
+
 ## 02 PIPELINE AT A GLANCE
 <p align="center">
   <img src="assets/pipeline.png" width="100%" />
