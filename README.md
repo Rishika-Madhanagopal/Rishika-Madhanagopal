@@ -145,19 +145,27 @@
 </div>
 
 ## 05 LET'S CONNECT
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      📧 rishikamadhanagopal@outlook.com <br/>
-      🔗 www.linkedin.com/in/rishikam <br/>
-      📍 Newcastle Upon Tyne, UK <br/><br/>
-      <code>Open to opportunities in Bioinformatics/Data Scientist</code>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rishika-Madhanagopal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <p>📧 <b>Email:</b> <a href="mailto:rishikamadhanagopal@outlook.com">rishikamadhanagopal@outlook.com</a></p>
+  <p>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rishikam">linkedin.com/in/rishikam</a></p>
+  <p>📍 <b>Location:</b> Newcastle Upon Tyne, UK</p>
+</div>
+
+<br/>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Open%20to%20opportunities-Bioinformatics%20%2F%20Data%20Scientist-rgba(255,255,255,0.1)?style=for-the-badge&labelColor=black" />
+</div>
+
+<br/>
+
+### My GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikamadhanagopal&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikamadhanagopal&layout=compact&theme=tokyonight&hide=html,css" width="300" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishika-Madhanagopal&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
