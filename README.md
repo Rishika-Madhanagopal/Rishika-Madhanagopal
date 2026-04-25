@@ -78,13 +78,56 @@
 </p>
 
 ## 03 TECH STACK
-| | |
-| :--- | :--- |
-| **LANGUAGES** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **ANALYSIS** | ![Scanpy](https://img.shields.io/badge/-Scanpy-blueviolet?style=flat-square) ![ScikitLearn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **DEVOPS** | ![Nextflow](https://img.shields.io/badge/-Nextflow-24B064?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
----
+<div align="center">
+
+<table border="0" cellpadding="5">
+  <tr>
+    <td align="right"><b>PROGRAMMING & DATA</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>BIOINFORMATICS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Nextflow-007D8A?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Scanpy-8A2BE2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/GATK-FFAB40?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Bioconductor-276DC3?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>MACHINE LEARNING</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Dimensionality_Reduction-79c0ff?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>DEVOPS & CLOUD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>VISUALISATION</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 04 PHILOSOPHY
 > [!IMPORTANT]
