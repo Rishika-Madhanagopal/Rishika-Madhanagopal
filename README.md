@@ -36,36 +36,43 @@
 ## 01 FEATURED WORK
 
 <div align="center">
-  <div style="max-width: 1000px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="flex: 1; min-width: 300px; max-width: 320px; text-align: left; margin-bottom: 30px;">
-      <img src="assets/cluster.png" width="100%" style="border-radius: 8px; height: 180px; object-fit: cover;" />
-      <h3>Multi-Omic Drug Sensitivity</h3>
-      <p><sub>Integrated TCGA, DepMap & scRNA-seq to predict drug response in breast cancer.</sub></p>
-      <p>🛡️ IGKV1-5 & ALPL identified via SHAP<br/>
-         🔍 Pathway & Network Analysis<br/>
-         🚀 XAI for Biomarker Discovery</p>
-      <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
-    </div>
-    <div style="flex: 1; min-width: 300px; max-width: 320px; text-align: left; margin-bottom: 30px;">
-      <img src="assets/AWS_Architecture_Diagram.png" width="100%" style="border-radius: 8px; height: 180px; object-fit: cover;" />
-      <h3>Genomics Pipeline on AWS</h3>
-      <p><sub>End-to-end NGS workflow on AWS for scalable variant discovery and analysis.</sub></p>
-      <p>🛡️ FastQC . BWA . GATK . Samtools<br/>
-         🔍 Automated with Nextflow, Docker<br/>
-         🚀 S3 . EC2 . Batch . Lambda</p>
-      <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
-    </div>
-    <div style="flex: 1; min-width: 300px; max-width: 320px; text-align: left; margin-bottom: 30px;">
-      <img src="assets/reachability_plot_label_3.png" width="100%" style="border-radius: 8px; height: 180px; object-fit: cover;" />
-      <h3>Immune Cell Clustering in RA</h3>
-      <p><sub>Density-based clustering of cytometry data to identify immune cell populations.</sub></p>
-      <p>🛡️ OPTICS clustering<br/>
-         🔍 UMAP & t-SNE visualisation<br/>
-         🚀 Biomarker discovery for RA states</p>
-      <a href="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis.git">View Project →</a>
-    </div>
-
-  </div>
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr align="center">
+      <td width="330" valign="top">
+        <div align="left" style="margin: 10px;">
+          <img src="assets/cluster.png" width="100%" style="border-radius: 8px; height: 180px; object-fit: cover;" />
+          <h3>Multi-Omic Drug Sensitivity</h3>
+          <p><sub>Integrated TCGA, DepMap & scRNA-seq to predict drug response in breast cancer.</sub></p>
+          <p>🛡️ IGKV1-5 & ALPL identified via SHAP<br/>
+             🔍 Pathway & Network Analysis<br/>
+             🚀 XAI for Biomarker Discovery</p>
+          <a href="https://github.com/Rishika-Madhanagopal/Precision-Oncology-XAI.git">View Project →</a>
+        </div>
+      </td>
+      <td width="330" valign="top">
+        <div align="left" style="margin: 10px;">
+          <img src="assets/AWS_Architecture_Diagram.png" width="100%" style="border-radius: 8px; height: 180px; object-fit: cover;" />
+          <h3>Genomics Pipeline on AWS</h3>
+          <p><sub>End-to-end NGS workflow on AWS for scalable variant discovery and analysis.</sub></p>
+          <p>🛡️ FastQC . BWA . GATK . Samtools<br/>
+             🔍 Automated with Nextflow, Docker<br/>
+             🚀 S3 . EC2 . Batch . Lambda</p>
+          <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
+        </div>
+      </td>
+      <td width="330" valign="top">
+        <div align="left" style="margin: 10px;">
+          <img src="assets/reachability_plot_label_3.png" width="100%" style="border-radius: 8px; height: 180px; object-fit: cover;" />
+          <h3>Immune Cell Clustering in RA</h3>
+          <p><sub>Density-based clustering of cytometry data to identify immune cell populations.</sub></p>
+          <p>🛡️ OPTICS clustering<br/>
+             🔍 UMAP & t-SNE visualisation<br/>
+             🚀 Biomarker discovery for RA states</p>
+          <a href="https://github.com/Rishika-Madhanagopal/Rheumatoid-Arthritis.git">View Project →</a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 02 PIPELINE AT A GLANCE
