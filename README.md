@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<table border="0" cellpadding="5">
+<table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="right"><b>PROGRAMMING & DATA</b></td>
     <td>
@@ -105,7 +105,7 @@
     <td>
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Dimensionality_Reduction-79c0ff?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Dim_Reduction-79C0FF?style=for-the-badge" />
     </td>
   </tr>
   <tr>
@@ -121,8 +121,8 @@
     <td align="right"><b>VISUALISATION</b></td>
     <td>
       <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
       <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
     </td>
   </tr>
 </table>
