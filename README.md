@@ -153,27 +153,18 @@
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Open%20to%20opportunities-Bioinformatics%20%2F%20Data%20Scientist-79c0ff?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-BIOINFORMATICS%20%2F%20DATA%20SCIENTIST-79c0ff?style=for-the-badge&labelColor=black" />
 </div>
 
 <br/>
 
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr align="center">
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rishikamadhanagopal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="450" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikamadhanagopal&layout=compact&theme=tokyonight&hide_border=true" width="350" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikamadhanagopal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="450" />
   
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikamadhanagopal&theme=tokyonight&hide_border=true" width="810" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikamadhanagopal&theme=tokyonight&hide_border=true" width="450" />
 </div>
 
 <p align="center">
