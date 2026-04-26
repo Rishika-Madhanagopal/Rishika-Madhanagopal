@@ -56,7 +56,7 @@
         <li>Automated with Nextflow, Docker</li>
         <li>S3 . EC2 . Batch . Lambda</li>
       </ul>
-      <a href="https://github.com/Rishika-Madhanagopal/Bioinformatics_Pipeline_AWS.git">View Project →</a>
+      <a href="https://github.com/Rishika-Madhanagopal/Genomics-Pipeline-on-AWS.git">View Project →</a>
     </td>
     <td width="33%" valign="top">
       <img src="assets/reachability_plot_label_3.png" style="width:100%; height:200px; object-fit: cover; border-radius: 8px;" />
