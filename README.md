@@ -17,28 +17,27 @@
 
 </div>
 
-<div align="center">
-<table border="0" width="100%">
+<table border="0">
   <tr>
     <td align="center" valign="top" width="25%">
       <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="30"/><br/>
       <b>BIOLOGY</b><br/>
-      <sub>Understanding<br/>molecular systems</sub>
+      <sub>Understanding systems at<br/>molecular resolution</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <img src="https://img.icons8.com/ios/50/79c0ff/code.png" width="30"/><br/>
       <b>DATA</b><br/>
-      <sub>Turning noisy<br/>data structured</sub>
+      <sub>Turning noisy data into<br/>structured information</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="30"/><br/>
       <b>ENGINEERING</b><br/>
-      <sub>Building scalable<br/>pipelines</sub>
+      <sub>Building reproducible,<br/>scalable pipelines</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <img src="https://img.icons8.com/ios/50/79c0ff/target.png" width="30"/><br/>
       <b>IMPACT</b><br/>
-      <sub>Translating<br/>real outcomes</sub>
+      <sub>Translating insights into<br/>real-world outcomes</sub>
     </td>
   </tr>
 </table>
