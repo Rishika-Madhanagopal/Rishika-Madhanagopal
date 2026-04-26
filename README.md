@@ -17,30 +17,32 @@
 
 </div>
 
-<table border="0" width="100%" style="width: 100%; border-collapse: collapse;">
+<div align="center">
+<table border="0">
   <tr>
-    <td align="center" width="25%" style="vertical-align: top; padding: 5px;">
-      <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="25"/><br/>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="30"/><br/>
       <b>BIOLOGY</b><br/>
-      <sub>Understanding systems at molecular resolution</sub>
+      <sub>Understanding<br/>molecular systems</sub>
     </td>
-    <td align="center" width="25%" style="vertical-align: top; padding: 5px;">
-      <img src="https://img.icons8.com/ios/50/79c0ff/code.png" width="25"/><br/>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/ios/50/79c0ff/code.png" width="30"/><br/>
       <b>DATA</b><br/>
-      <sub>Turning noisy data into structured information</sub>
+      <sub>Turning noisy<br/>data structured</sub>
     </td>
-    <td align="center" width="25%" style="vertical-align: top; padding: 5px;">
-      <img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="25"/><br/>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="30"/><br/>
       <b>ENGINEERING</b><br/>
-      <sub>Building reproducible, scalable pipelines</sub>
+      <sub>Building scalable<br/>pipelines</sub>
     </td>
-    <td align="center" width="25%" style="vertical-align: top; padding: 5px;">
-      <img src="https://img.icons8.com/ios/50/79c0ff/target.png" width="25"/><br/>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/ios/50/79c0ff/target.png" width="30"/><br/>
       <b>IMPACT</b><br/>
-      <sub>Translating insights into real-world outcomes</sub>
+      <sub>Translating<br/>real outcomes</sub>
     </td>
   </tr>
 </table>
+</div>
 
 </div>
 
