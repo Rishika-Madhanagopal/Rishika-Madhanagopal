@@ -11,20 +11,13 @@
 <br/>
 
 <p align="center">
-  <span style="display: flex; justify-content: space-between; align-items: center;">
-    <font size="5">⌜</font>
-    <img src="https://via.placeholder.com/600x1/00000000.png" style="visibility: hidden;" />
-    <font size="5">⌝</font>
-  </span>
-  <br />
-  <i><font size="4">I design robust analytical systems that extract reliable <br /> insights from complex biological data.</font></i>
-  <br />
-  <span style="display: flex; justify-content: space-between; align-items: center;">
-    <font size="5">⌞</font>
-    <img src="https://via.placeholder.com/600x1/00000000.png" style="visibility: hidden;" />
-    <font size="5">⌟</font>
-  </span>
+  <font size="4">
+    ⌜ <i>I design robust analytical systems that extract reliable</i> ⌝ <br/>
+    &nbsp;&nbsp;&nbsp; <i>insights from complex biological data.</i> <br/>
+    ⌞ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌟
+  </font>
 </p>
+
 </div>
 
 <table border="0">
