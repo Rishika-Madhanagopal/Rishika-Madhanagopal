@@ -11,13 +11,14 @@
 <br/>
 
 <p align="center">
-  <font size="4">⌜ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌝</font><br/>
-  <i>I design robust analytical systems that extract reliable <br/> 
-  insights from complex biological data.</i><br/>
-  <font size="4">⌞ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌟</font>
+  <img src="https://raw.githubusercontent.com/Rishika-Madhanagopal/Genomics-Pipeline-on-AWS/main/docs/brackets-top.png" alt="bracket" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;" />
+  
+  <font size="4">
+    <i>I design robust analytical systems that extract reliable<br/> insights from complex biological data.</i>
+  </font>
+  
+  <img src="https://raw.githubusercontent.com/Rishika-Madhanagopal/Genomics-Pipeline-on-AWS/main/docs/brackets-bottom.png" alt="bracket" style="width: 100%; max-width: 600px; display: block; margin: 0 auto; margin-top: -5px;" />
 </p>
-
-<br/>
 
 </div>
 
