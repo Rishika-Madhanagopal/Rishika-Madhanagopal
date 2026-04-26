@@ -13,7 +13,7 @@
 <p align="center">
   <font size="4">
     <i>⌜ I design robust analytical systems that extract reliable ⌝</i> <br/>
-    <i>⌞ insights from complex biological data. ⌟</i>
+    <i>&nbsp;&nbsp;⌞ insights from complex biological data. ⌟&nbsp;&nbsp;</i>
   </font>
 </p>
 
