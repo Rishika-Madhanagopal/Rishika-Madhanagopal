@@ -9,26 +9,14 @@
 <div align="center">
 
 <br/>
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="left" style="border: none;"><font size="5">⌜</font></td>
-    <td style="border: none;"></td>
-    <td align="right" style="border: none;"><font size="5">⌝</font></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" style="border: none;">
-      <i><font size="4">
-        I design robust analytical systems that extract reliable <br/> 
-        insights from complex biological data.
-      </font></i>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="border: none;"><font size="5">⌞</font></td>
-    <td style="border: none;"></td>
-    <td align="right" style="border: none;"><font size="5">⌟</font></td>
-  </tr>
-</table>
+<p align="center">
+  <font size="4">
+    ⌜ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌝ <br/>
+    <i>I design robust analytical systems that extract reliable <br/> 
+    insights from complex biological data.</i> <br/>
+    ⌞ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌟
+  </font>
+</p>
 
 </div>
 
