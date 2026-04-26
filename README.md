@@ -10,30 +10,21 @@
 
 <br/>
 
-<table align="center" width="100%" style="border: none; border-collapse: collapse; background: transparent;">
-  <tr style="border: none;">
-    <td align="left" style="border: none; padding: 0;"><font size="5"><b>⌜</b></font></td>
-    <td style="border: none;"></td>
-    <td align="right" style="border: none; padding: 0;"><font size="5"><b>⌝</b></font></td>
-  </tr>
-  
-  <tr style="border: none;">
-    <td colspan="3" align="center" style="border: none; padding: 10px 0;">
-      <font size="4">
-        <i>I design robust analytical systems that extract reliable<br/>insights from complex biological data.</i>
-      </font>
-    </td>
-  </tr>
-  
-  <tr style="border: none;">
-    <td align="left" style="border: none; padding: 0;"><font size="5"><b>⌞</b></font></td>
-    <td style="border: none;"></td>
-    <td align="right" style="border: none; padding: 0;"><font size="5"><b>⌟</b></font></td>
-  </tr>
-</table>
-
-<br/>
-
+<p align="center">
+  <span style="display: flex; justify-content: space-between; align-items: center;">
+    <font size="5">⌜</font>
+    <img src="https://via.placeholder.com/600x1/00000000.png" style="visibility: hidden;" />
+    <font size="5">⌝</font>
+  </span>
+  <br />
+  <i><font size="4">I design robust analytical systems that extract reliable <br /> insights from complex biological data.</font></i>
+  <br />
+  <span style="display: flex; justify-content: space-between; align-items: center;">
+    <font size="5">⌞</font>
+    <img src="https://via.placeholder.com/600x1/00000000.png" style="visibility: hidden;" />
+    <font size="5">⌟</font>
+  </span>
+</p>
 </div>
 
 <table border="0">
