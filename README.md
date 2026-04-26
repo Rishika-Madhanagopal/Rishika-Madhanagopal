@@ -41,10 +41,8 @@
     </td>
   </tr>
 </table>
-</div>
 
 </div>
-
 
 ## 01 FEATURED WORK
 <table border="0">
