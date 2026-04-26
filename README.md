@@ -12,9 +12,8 @@
 
 <p align="center">
   <font size="4">
-    ⌜ <i>I design robust analytical systems that extract reliable</i> ⌝ <br/>
-    &nbsp;&nbsp;&nbsp; <i>insights from complex biological data.</i> <br/>
-    ⌞ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⌟
+    <i>⌜ I design robust analytical systems that extract reliable ⌝</i> <br/>
+    <i>⌞ insights from complex biological data. ⌟</i>
   </font>
 </p>
 
