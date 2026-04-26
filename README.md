@@ -11,7 +11,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishika-Madhanagopal/Genomics-Pipeline-on-AWS/main/docs/brackets-top.png" alt="bracket" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;" />
+  <img src="docs/quote-block.png" width="800" alt="I design robust analytical systems that extract reliable insights from complex biological data.">
+</p>
   
   <font size="4">
     <i>I design robust analytical systems that extract reliable<br/> insights from complex biological data.</i>
