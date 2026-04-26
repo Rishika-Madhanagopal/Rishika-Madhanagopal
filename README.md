@@ -18,24 +18,24 @@
 </div>
 
 <div align="center">
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="25%">
       <img src="https://img.icons8.com/ios/50/79c0ff/dna-helix.png" width="30"/><br/>
       <b>BIOLOGY</b><br/>
       <sub>Understanding<br/>molecular systems</sub>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="25%">
       <img src="https://img.icons8.com/ios/50/79c0ff/code.png" width="30"/><br/>
       <b>DATA</b><br/>
       <sub>Turning noisy<br/>data structured</sub>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="25%">
       <img src="https://img.icons8.com/ios/50/79c0ff/brain.png" width="30"/><br/>
       <b>ENGINEERING</b><br/>
       <sub>Building scalable<br/>pipelines</sub>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="25%">
       <img src="https://img.icons8.com/ios/50/79c0ff/target.png" width="30"/><br/>
       <b>IMPACT</b><br/>
       <sub>Translating<br/>real outcomes</sub>
