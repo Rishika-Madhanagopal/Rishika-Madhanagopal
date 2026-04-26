@@ -10,16 +10,29 @@
 
 <br/>
 
-<p align="center">
-  <img src="docs/quote-block.png" width="800" alt="I design robust analytical systems that extract reliable insights from complex biological data.">
-</p>
+<table align="center" width="100%" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none;">
+    <td align="left" style="border: none; padding: 0;"><font size="5"><b>⌜</b></font></td>
+    <td style="border: none;"></td>
+    <td align="right" style="border: none; padding: 0;"><font size="5"><b>⌝</b></font></td>
+  </tr>
   
-  <font size="4">
-    <i>I design robust analytical systems that extract reliable<br/> insights from complex biological data.</i>
-  </font>
+  <tr style="border: none;">
+    <td colspan="3" align="center" style="border: none; padding: 10px 0;">
+      <font size="4">
+        <i>I design robust analytical systems that extract reliable<br/>insights from complex biological data.</i>
+      </font>
+    </td>
+  </tr>
   
-  <img src="https://raw.githubusercontent.com/Rishika-Madhanagopal/Genomics-Pipeline-on-AWS/main/docs/brackets-bottom.png" alt="bracket" style="width: 100%; max-width: 600px; display: block; margin: 0 auto; margin-top: -5px;" />
-</p>
+  <tr style="border: none;">
+    <td align="left" style="border: none; padding: 0;"><font size="5"><b>⌞</b></font></td>
+    <td style="border: none;"></td>
+    <td align="right" style="border: none; padding: 0;"><font size="5"><b>⌟</b></font></td>
+  </tr>
+</table>
+
+<br/>
 
 </div>
 
