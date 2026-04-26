@@ -179,5 +179,5 @@
 
 <p align="center">
   <br/>
-  <i>"Good models predict. Great systems survive real data."</i>
+  <i>"Good models predict.<br/> Great systems survive real data."</i>
 </p>
