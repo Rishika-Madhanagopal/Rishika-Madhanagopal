@@ -168,11 +168,7 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rishika-Madhanagopal&show_icons=true&theme=tokyonight&hide_border=true" width="600"/> <br/><br/> <img src="https://streak-stats.demolab.com/?user=Rishika-Madhanagopal&theme=tokyonight&hide_border=true" width="600"/> </p>
-</div>
+<br/>
 
 <p align="center">
   <br/>
