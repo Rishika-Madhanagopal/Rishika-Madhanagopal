@@ -168,12 +168,12 @@
 </div>
 
 <br/>
-
+'''
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishika-Madhanagopal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" width="600" />
   
   <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishika-Madhanagopal&theme=tokyonight&hide_border=true&cache_seconds=1800" width="600" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishika-Madhanagopal&theme=tokyonight&hide_border=true&cache_seconds=1800" width="600" />'''
 </div>
 
 <p align="center">
