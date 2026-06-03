@@ -166,11 +166,3 @@
 <div align="left">
   <img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-BIOINFORMATICS%20%2F%20DATA%20SCIENTIST-79c0ff?style=for-the-badge&labelColor=black" />
 </div>
-
-<br/>
-<br/>
-
-<p align="center">
-  <br/>
-  <i>"Good models predict.<br/> Great systems survive real data."</i>
-</p>
